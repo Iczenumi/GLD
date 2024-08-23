@@ -12,7 +12,7 @@ local image_0 = {
 
 --image_1 is used as the icon
 local image_1 = {
-    ['src'] = 'https://cdn.numiezganggarage.com.tr/Kafeler/GladsosPark/GladsosGiris.png',
+    ['src'] = 'https://cdn.numiezganggarage.com.tr/Kafeler/GladsosPark/GladsosIGN.png',
     ['sizeX'] = 128,
     ['sizeY'] = 128,
     ['paddingX'] = 50, --use this to align it, currently 50 pixels from top right
